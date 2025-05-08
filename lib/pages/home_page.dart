@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
         title: Text('Portfolio'),
       ),
       body: Center(
-        child: Text('Willkommen im Portfolio von <Dein Name>'),
+        child: Text('Willkommen im Portfolio von Mustafa'),
       ),
     );
   }
