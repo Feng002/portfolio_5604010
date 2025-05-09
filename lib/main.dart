@@ -11,6 +11,5 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Mein Portfolio',
       home: HomePage(),
-    );
   }
 }
